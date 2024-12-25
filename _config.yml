@@ -21,8 +21,8 @@ RSS: false
 # weibo_username:     luban
 zhihu_username:     luban
 github_username:    luban
-facebook_username:  none
-jianshu_username:   luban
+# facebook_username:  none
+# jianshu_username:   luban
 #twitter_username:   qiubaiying
 
 
@@ -67,7 +67,7 @@ gitalk:
   repo: qiubaiying.github.io    #仓库名称
   owner: qiubaiying    #github用户名
   admin: qiubaiying
-  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+  distractionFreeMode: true #是否启用类��FB的阴影遮罩
 
 
 # 统计
